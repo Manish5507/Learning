@@ -1,0 +1,13 @@
+.sec-header {
+    background-color: rgb(47, 56, 68);
+    height: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 15px;
+    color:white;
+    position:fixed;
+    top:60px;
+    left:0;
+    right: 0;
+}
